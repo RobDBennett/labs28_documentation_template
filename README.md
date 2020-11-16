@@ -6,7 +6,14 @@
 > Github Guids - Mastering Markdown: https://guides.github.com/features/mastering-markdown/
 
 ## Description
-Final product video for either web or ds depending on what the repo is for
+Include a paragraph describing the project. Some things you should write about in your discriptions are:
+- A breif desciption of the Stakeholder Company and their goals overall.  
+- A breif description of the company's goals with this project.  
+- A breif description of the problem(s) your team is trying to solve/answer.
+- The final(planned) solution to the problem(s)
+
+Add the final product video for either web or ds (depending on what the repo is for) here.
+
 ## Contributors
 ## Deployed Product 
 Links to deployed end products (All Links BE, FE, DS)
