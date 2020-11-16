@@ -20,15 +20,21 @@ Description of what was inherited and links to legacy documentation & repos
 Screen shots of user flows
 # Archetecture 
 Screen shots of archtecture diagrams
+
 Description of File hierarchy
 # Updates To Repo in Labs 28
 Track Specific Repo Information (BE, FE, DS)
+
 Examples and Descriptions of components, how props are handled, and where to find them, or database tables and models
+
 End Points and how they should be used
 # Issues 
-Current Issues/Bugs that could not be fixed before thursday of week 4 (please also include this is the *issues* tab
+Current Issues/Bugs that could not be fixed before thursday of week 4
+
+formatted as a task list 
 # Future Features
 Wishlist for future features
+
 Links to any other research you have done for this project
 # Support
 Who to contact for further support
