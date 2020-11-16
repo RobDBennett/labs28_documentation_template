@@ -1,4 +1,6 @@
 # Title Same As Repo Name
+## Delete this section completely - these are just resources to help you with creating your documentation.
+>Formating your readme so it's legible for others: https://guides.github.com/features/mastering-markdown/
 ## Description
 Final product video for either web or ds depending on what the repo is for
 # Contributors
@@ -7,7 +9,7 @@ Links to deployed end products (All Links BE, FE, DS)
 # Linked Repos
 Links to connecting repos/components and description as to how they are connected
 # Getting Started
-Product Vision Document
+>Product Vision Document
 Description of what was inherited and links to legacy documentation & repos
 # Tech Stack Used
 # User Flows
