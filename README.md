@@ -1,3 +1,3 @@
-# Title Same As Repo
+# Title Same As Repo Name
 Description
 Contributors
