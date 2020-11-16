@@ -20,12 +20,12 @@ Include a list of all the contributors and links to their GitHubs and LinkedIn P
 Here is an example of how you could do it.
 
 
-| [Matthew Molloy](https://github.com/desiquinn) | [Jason Schwartz](https://github.com/) | [Emilio Diaz-Goico](https://github.com/) | [Steele Helbling](https://github.com/) |
+| [Matthew Molloy](https://github.com/desiquinn) | [Jason Schwartz](https://github.com/desiquinn) | [Emilio Diaz-Goico](https://github.com/desiquinn) | [Steele Helbling](https://github.com/desiquinn) |
 | :---: | :---: | :---: | :---: | 
-| [<img src="https://ca.slack-edge.com/ESZCHB482-W0138DA1E2C-958485caa8ee-512" width = "200" />](https://github.com/) | [<img src="https://ca.slack-edge.com/ESZCHB482-W012JQ4LYPM-ceff614ba646-512" width = "200" />](https://github.com/) | [<img src="https://ca.slack-edge.com/ESZCHB482-W0123RSBXLP-0bf2bb6576db-512" width = "200" />](https://github.com/) | [<img src="https://ca.slack-edge.com/ESZCHB482-W0138Q55T7A-beb4a8bca6a4-512" width = "200" />](https://github.com/) |
+| [<img src="https://ca.slack-edge.com/ESZCHB482-W0138DA1E2C-958485caa8ee-512" width = "200" />](https://github.com/desiquinn) | [<img src="https://ca.slack-edge.com/ESZCHB482-W012JQ4LYPM-ceff614ba646-512" width = "200" />](https://github.com/desiquinn) | [<img src="https://ca.slack-edge.com/ESZCHB482-W0123RSBXLP-0bf2bb6576db-512" width = "200" />](https://github.com/desiquinn) | [<img src="https://ca.slack-edge.com/ESZCHB482-W0138Q55T7A-beb4a8bca6a4-512" width = "200" />](https://github.com/desiquinn) |
 | Team Project Lead | Web Developer | Web Developer | Data Scientist |
-|[<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/) | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/honda0306) | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/Mister-Corn) | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/NandoTheessen) |
-| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) |              
+|[<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/desiquinn) | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/desiquinn) | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/desiquinn) | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/desiquinn) |
+| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/desiree-morris) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/) |              
 
 <br>
 
