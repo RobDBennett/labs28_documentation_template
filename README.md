@@ -7,35 +7,35 @@
 
 ## Description
 Final product video for either web or ds depending on what the repo is for
-# Contributors
-# Deployed Product 
+## Contributors
+## Deployed Product 
 Links to deployed end products (All Links BE, FE, DS)
-# Linked Repos
+## Linked Repos
 Links to connecting repos/components and description as to how they are connected
-# Getting Started
+## Getting Started
 Product Vision Document
 
 Description of what was inherited and links to legacy documentation & repos
-# Tech Stack Used
-# User Flows
+## Tech Stack Used
+## User Flows
 Screen shots of user flows
-# Archetecture 
+## Archetecture 
 Screen shots of archtecture diagrams
 
 Description of File hierarchy
-# Updates To Repo in Labs 28
+## Updates To Repo in Labs 28
 Track Specific Repo Information (BE, FE, DS)
 
 Examples and Descriptions of components, how props are handled, and where to find them, or database tables and models
 
 End Points and how they should be used
-# Issues 
+## Issues 
 Current Issues/Bugs that could not be fixed before thursday of week 4
 
 formatted as a task list 
-# Future Features
+## Future Features
 Wishlist for future features
 
 Links to any other research you have done for this project
-# Support
+## Support
 Who to contact for further support
