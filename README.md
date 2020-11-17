@@ -19,6 +19,7 @@ Include a list of all the contributors and links to their GitHubs and LinkedIn P
 
 Here is an example of how you could do it:
 - Fork and clone to get the code for the table below
+- Paste it twice to add more teammates and make sure to include a blank line in between the two
 - Be sure to update ALL github and linkedin links with your team's info or it will link to me and my friends
 - You can get each person's picture by clicking on their GitHub profile picture and copying the url in the browser
 - The people in the photos below are some of my favorite people from lambda school... You should follow them 
