@@ -60,13 +60,14 @@ Here is an example of how you could do it:
 - Write out a description of your user flow
 - Include a screen shots of the user flow
 
+## Wireframes (FE only)
+- Front End should include a description and screen shot of wireframes
+
 ## Architecture (Same for all repos)
 - Write out a description of the architecture diagram
 - Include a screen shot of the archtecture diagram
 
 - Describe the file hierarchy and where to find things (BE, FE, or DS specific)
-
-- Front End should include a description and screen shot of wireframes
 
 ## Updates To Repo in Labs 28 (BE, FE, or DS specific)
 - Describe what you have changed in this repo as a team
