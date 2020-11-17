@@ -17,12 +17,16 @@ Add the final product video for either web or ds (depending on what the repo is 
 ## Contributors
 Include a list of all the contributors and links to their GitHubs and LinkedIn Profiles.
 
-Here is an example of how you could do it.
+Here is an example of how you could do it:
+- Fork and clone to get the code for the table below
+- Be sure to update ALL github and linkedin links with your team's info or it will link to me and my friends
+- You can get each person's picture by clicking on their GitHub profile picture and copying the url in the browser
+- The people in the photos below are some of my favorite people from lambda school... You should follow them 
 
 
-| [Matthew Molloy](https://github.com/desiquinn) | [Jason Schwartz](https://github.com/desiquinn) | [Emilio Diaz-Goico](https://github.com/desiquinn) | [Steele Helbling](https://github.com/desiquinn) |
+| [May Ng](https://github.com/desiquinn) | [Tommy Colemon](https://github.com/desiquinn) | [Nisa Champagne](https://github.com/desiquinn) | [Jason Long](https://github.com/desiquinn) |
 | :---: | :---: | :---: | :---: | 
-| [<img src="https://avatars2.githubusercontent.com/u/49328148?s=400&u=01c34b0fc10076d5fef8a38601a3384621bc18b2&v=4" width = "200" />](https://github.com/desiquinn) | [<img src="https://ca.slack-edge.com/ESZCHB482-W012JQ4LYPM-ceff614ba646-512" width = "200" />](https://github.com/desiquinn) | [<img src="https://ca.slack-edge.com/ESZCHB482-W0123RSBXLP-0bf2bb6576db-512" width = "200" />](https://github.com/desiquinn) | [<img src="https://ca.slack-edge.com/ESZCHB482-W0138Q55T7A-beb4a8bca6a4-512" width = "200" />](https://github.com/desiquinn) |
+| [<img src="https://avatars2.githubusercontent.com/u/49328148?s=400&u=01c34b0fc10076d5fef8a38601a3384621bc18b2&v=4" width = "200" />](https://github.com/mngmay) | [<img src="https://avatars1.githubusercontent.com/u/50923422?s=400&u=817cd183508a4da9c048210dcd1962de16298b2b&v=4" width = "200" />](https://github.com/tommycoleman87) | [<img src="https://https://avatars3.githubusercontent.com/u/50988313?s=400&u=2bdd1579ba39980e62a45c5fb7544afe1f29a209&v=4" width = "200" />](https://github.com/nisaChampagne) | [<img src="https://avatars3.githubusercontent.com/u/57104675?s=400&u=e7620554469deb924ac378097155cd45590cbdf9&v=4" width = "200" />](https://github.com/jlong5795) |
 | Team Project Lead | Web Developer | Web Developer | Data Scientist |
 |[<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/desiquinn) | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/desiquinn) | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/desiquinn) | [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/desiquinn) |
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/desiree-morris) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/desiree-morris) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/desiree-morris) | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/desiree-morris) |              
