@@ -5,7 +5,7 @@
 >
 > Github Guids - Mastering Markdown: https://guides.github.com/features/mastering-markdown/
 
-## Description
+## Description (Same for all repos)
 Include a paragraph describing the project. Some things you should write about in your description are:
 - A breif description of the Stakeholder Company and their goals overall.  
 - A breif description of the company's goals with this project.  
@@ -14,7 +14,7 @@ Include a paragraph describing the project. Some things you should write about i
 
 Add the final product video for either web or ds (depending on what the repo is for) here.
 
-## Contributors
+## Contributors (Same for all repos)
 Include a list of all the contributors and links to their GitHubs and LinkedIn Profiles.
 
 Here is an example of how you could do it:
@@ -33,34 +33,56 @@ Here is an example of how you could do it:
 
 <br>
 
-## Deployed Product 
-Links to deployed end products (All Links BE, FE, DS)
-## Linked Repos
-Links to connecting repos/components and description as to how they are connected
-## Getting Started
-Product Vision Document
+## Deployed Product (Same for all repos)
+- Include ALL links to deployed end products (BE, FE, & DS)
+- Make sure they are clearly labeled
 
-Description of what was inherited and links to legacy documentation & repos
-## Tech Stack Used
-## User Flows
-Screen shots of user flows
-## Archetecture 
-Screen shots of archtecture diagrams
+## Linked Repos (Same for all repos)
+- Include ALL links to connecting repos
+- Describe how they are connected
+- Make sure they are clearly labeled
 
-Description of File hierarchy
-## Updates To Repo in Labs 28
-Track Specific Repo Information (BE, FE, DS)
+## Getting Started (BE, FE, or DS specific)
+- Describe what was inherited as a team
+- Include links to legacy documentation & repos
+- Include a link to the Product Vision Document
 
-Examples and Descriptions of components, how props are handled, and where to find them, or database tables and models
+- Include a second paragraph decribing how the next team can get started working with this repo
+- Describe where and how each portion is deployed
+- What needs to be changed in order to deploy to a new environment (do not add an secrets here)
 
-End Points and how they should be used
-## Issues 
-Current Issues/Bugs that could not be fixed before thursday of week 4
+## Tech Stack Used (BE, FE, or DS specific)
+- List the tech stack used
+- Described what it was used for
 
-formatted as a task list 
-## Future Features
-Wishlist for future features
+## User Flows (Same for all repos)
+- Write out a description of your user flow
+- Include a screen shots of the user flow
 
-Links to any other research you have done for this project
-## Support
-Who to contact for further support
+## Architecture (Same for all repos)
+- Write out a description of the architecture diagram
+- Include a screen shot of the archtecture diagram
+
+- Describe the file hierarchy and where to find things (BE, FE, or DS specific)
+
+- Front End should include a description and screen shot of wireframes
+
+## Updates To Repo in Labs 28 (BE, FE, or DS specific)
+- Describe what you have changed in this repo as a team
+- Provide examples and descriptions of components, how props are handled, where to find these changes, database tables, models, etc.
+
+## End Points (BE, FE, or DS specific)
+- Provide a list of End Points and what they are used for (Don't just link to your API, actually write out a description for each one so it's clear for the next team)
+- Include a link to your API documentation if you have them (I use postman to create visually appealing API Docs)
+
+## Issues (BE, FE, or DS specific)
+- Include current issues/bugs that could not be fixed before Thursday of week 4
+- Format it as a task list for legibility
+
+## Future Features (BE, FE, or DS specific)
+- Describe what you wanted to do but could not get to
+- List any other ideas you had for the app or apis
+- Include links to any other research you have done for this project
+
+## Support (BE, FE, or DS specific)
+Who to contact for further support. Include at least two names.  They can use the contributors list above to get in contact with you, or find you on slack.
